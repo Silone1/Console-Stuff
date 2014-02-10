@@ -1,5 +1,5 @@
-Console-Calculator
+Console-Stuff
 ==================
 
-Console Calculator for adding, subtracting, dividing and stuff like that.
+Console Stuff, just test them :
 Use http://repl.it/languages/JavaScript or https://www.learnstreet.com/scratchpad/javascript to run the code/script.
